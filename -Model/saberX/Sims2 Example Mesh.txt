@@ -1,0 +1,34 @@
+Example Sims2 Body Meshes
+
+These meshes are the standard "default" body meshes that are used by BodyShop.
+
+There is no need to credit me, I did nothing to them at all.
+
+They are handy to use as a reference if you are working on hair or accessory meshes.
+
+They are supplied in .obj file format -
+
+This means they should be compatible with all 3d Editors -
+
+NOTE:  These meshes are for REFERENCE ONLY!  They can NOT be imported back into the game,
+they have no joint assignments!
+
+To use:
+
+First import the mesh you are working on into your 3d editor, in your chosen format
+
+This can be .obj, .ms3dascii, .smd, or direct import into MilkShape with Wes H's plugins.
+
+Then import the example .obj
+
+With some 3d editors or export/import methods you may need to rotate the example mesh - 
+as supplied, they are in the correct position for .obj files exported as XZY, .ms3dascii files 
+exported as XZY, and with Wes H's plugins.
+
+Do your editing, using the example mesh groups as a reference for locating your new mesh parts.
+
+Be sure to DELETE ALL the example mesh groups before you export your finished mesh.
+
+I hope you find these useful.
+
+Dr Pixel, 2005

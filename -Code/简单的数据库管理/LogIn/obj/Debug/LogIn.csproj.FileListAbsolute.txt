@@ -1,0 +1,15 @@
+C:\Users\我\Desktop\Projects\homework\LogIn\LogIn\obj\Debug\LogIn.csprojResolveAssemblyReference.cache
+C:\Users\我\Desktop\Projects\homework\LogIn\LogIn\obj\Debug\LogIn.Form1.resources
+C:\Users\我\Desktop\Projects\homework\LogIn\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+C:\Users\我\Desktop\Projects\homework\LogIn\LogIn\obj\Debug\LogIn.csproj.GenerateResource.Cache
+C:\Users\我\Desktop\Projects\homework\LogIn\LogIn\bin\Debug\LogIn.exe.config
+C:\Users\我\Desktop\Projects\homework\LogIn\LogIn\bin\Debug\LogIn.exe
+C:\Users\我\Desktop\Projects\homework\LogIn\LogIn\bin\Debug\LogIn.pdb
+C:\Users\我\Desktop\Projects\homework\LogIn\LogIn\obj\Debug\LogIn.exe
+C:\Users\我\Desktop\Projects\homework\LogIn\LogIn\obj\Debug\LogIn.pdb
+C:\Users\我\Desktop\Projects\homework\LogIn\LogIn\obj\Debug\WindowsFormsApplication1.MainFrm.resources
+C:\Users\我\Desktop\Projects\homework\LogIn\LogIn\obj\Debug\LogIn.Form2.resources
+C:\Users\我\Desktop\Projects\homework\LogIn\LogIn\obj\Debug\LogIn.Form3.resources
+C:\Users\我\Desktop\Projects\homework\LogIn\LogIn\obj\Debug\LogIn.check.resources
+C:\Users\我\Desktop\Projects\homework\LogIn\LogIn\obj\Debug\LogIn.all.resources
+C:\Users\我\Desktop\Projects\homework\LogIn\LogIn\obj\Debug\LogIn.PasswordChange.resources

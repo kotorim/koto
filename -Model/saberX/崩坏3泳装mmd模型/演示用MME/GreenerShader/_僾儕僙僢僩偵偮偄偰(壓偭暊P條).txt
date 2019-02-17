@@ -1,0 +1,108 @@
+●エフェクトのプリセットについて
+・名称をバリエーションからプリセットに変更
+・基本的に、ES使用のSSAO使用でパラメーターを調整してます。
+・各イメージは、私の個人的なイメージなので、
+　何か違うと思ったら、自分で調整してください。
+・↓の説明は、静画の画像順番に対応。左上から順に書いてます。
+-----------------------------------------
+●各プリセットの説明
+・GreenerShader_ES_SUN1.fx 
+「GreenerShader_ES.fx」と同じパラメーター
+ 日中の太陽光下をイメージしたパラメーターです。
+
+・GreenerShader_ES_SUN2.fx 
+「GreenerShader_ES_SUN1.fx」をベースにライトの色を弱くしました。
+ 日中の太陽光下をイメージしたパラメーターです。
+
+・GreenerShader_ES_SUN3.fx 
+「GreenerShader_ES_SUN2.fx」をベースにライトの強さを少し弱く。
+ 日中の太陽光下をイメージしたパラメーターです。
+
+・GreenerShader_ES_SUNBACK.fx 
+「SUN」をベースにエッジライトを強くして、
+ 逆光の印象を強くしたパラメーターです。
+
+・GreenerShader_ES_SUNSET1.fx 
+ 夕日をイメージしたパラメーターです。
+
+・GreenerShader_ES_SUNSET2.fx 
+ 夕日をイメージしたパラメーターです。
+ 「GreenerShader_ES_SUNSET1.fx」よりは、色味を弱くしてあります。
+
+
+
+・GreenerShader_ES_CLOUDY.fx 
+ 曇りをイメージしたパラメーターです。
+ 明るさが弱く、影がはっきりしないようにしてあります。
+
+・GreenerShader_ES_RAINY.fx 
+ 雨の日をイメージしたパラメーターです。
+ 「CLOUDY」より明るさが弱く、
+ 更に影がはっきりしないようにしてあります。
+
+・GreenerShader_ES_MOON.fx 
+ 満月をイメージしたパラメーターです。
+
+・GreenerShader_ES_NEUTRAL.fx 
+ 各ライトのカラーを無彩度にしたパラメーターです。
+
+・GreenerShader_ES_GI.fx 
+ グローバルイルミネーションっぽいパラメーターです。
+ SSAO使用前提。
+
+・GreenerShader_ES_DARK.fx 
+ 何か暗い感じのパラメーターです。
+
+
+
+・GreenerShader_ES_LAMP1.fx 
+ 白熱球をイメージしたパラメーターです。
+ 部屋全体が明るくなっていない感じで
+
+・GreenerShader_ES_LAMP2.fx 
+ 白熱球をイメージしたパラメーターです。
+ 部屋全体が明るくなっている感じで
+
+・GreenerShader_ES_TOON1.fx 
+ トゥーンシェーダーっぽいパラメーターです。
+ 実験的なものなので、使用は微妙かと
+
+・GreenerShader_ES_TOON2.fx 
+ トゥーンシェーダーっぽいパラメーターです。
+ アイマス風のセンシティブトゥーン的な何かに挑戦。
+ あまり、うまくいきませんでした・・・
+
+・GreenerShader_ES_MEKA1.fx 
+ http://ch.nicovideo.jp/meshi_dane/blomaga/ar138611
+ で、紹介したしたパラメーターです。
+ メカ用。SSAO使用前提。
+
+・GreenerShader_ES_MEKA2.fx 
+ TOONをベースにより陰影を強くしたパラメーターです。
+ メカ用。SSAO使用前提。
+
+
+
+・GreenerShader_ES_WATER.fx 
+ 水の中をイメージしたパラメーターです。
+ 夜のシーンでも使えるかも。
+
+・GreenerShader_ES_FIRE.fx 
+ 炎をイメージしたパラメーターです。
+ ただの「WATER」の色を変えただけです…
+
+・GreenerShader_ES_SPOT.fx 
+ スポットライトをイメージしたパラメーターです。
+ ライトの色は、白。
+
+・GreenerShader_ES_SPOT_R.fx 
+ スポットライトをイメージしたパラメーターです。
+ ライトの色は、赤。
+
+・GreenerShader_ES_SPOT_G.fx 
+ スポットライトをイメージしたパラメーターです。
+ ライトの色は、緑。
+
+・GreenerShader_ES_SPOT_B.fx 
+ スポットライトをイメージしたパラメーターです。
+ ライトの色は、青。

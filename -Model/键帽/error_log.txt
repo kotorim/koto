@@ -1,0 +1,12 @@
+Begining error logging at 
+Mon Oct 30 20:31:34 2017
+error at ..\..\src\cork.cpp, line #164: empty mesh input to Cork routine.
+Ending error logging at 
+Mon Oct 30 20:31:34 2017
+
+Begining error logging at 
+Mon Oct 30 20:31:51 2017
+error at ..\..\src\cork.cpp, line #164: empty mesh input to Cork routine.
+Ending error logging at 
+Mon Oct 30 20:31:51 2017
+

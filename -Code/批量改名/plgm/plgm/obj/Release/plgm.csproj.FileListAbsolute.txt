@@ -1,0 +1,17 @@
+C:\Users\我\Desktop\批量改名\plgm\plgm\bin\Release\plgm.exe.config
+C:\Users\我\Desktop\批量改名\plgm\plgm\bin\Release\plgm.exe
+C:\Users\我\Desktop\批量改名\plgm\plgm\bin\Release\plgm.pdb
+C:\Users\我\Desktop\批量改名\plgm\plgm\obj\Release\plgm.批量重命名.resources
+C:\Users\我\Desktop\批量改名\plgm\plgm\obj\Release\plgm.Properties.Resources.resources
+C:\Users\我\Desktop\批量改名\plgm\plgm\obj\Release\plgm.csproj.GenerateResource.Cache
+C:\Users\我\Desktop\批量改名\plgm\plgm\obj\Release\plgm.exe
+C:\Users\我\Desktop\批量改名\plgm\plgm\obj\Release\plgm.pdb
+C:\Users\我\Desktop\Projects\批量改名\plgm\plgm\bin\Release\plgm.exe.config
+C:\Users\我\Desktop\Projects\批量改名\plgm\plgm\bin\Release\plgm.exe
+C:\Users\我\Desktop\Projects\批量改名\plgm\plgm\bin\Release\plgm.pdb
+C:\Users\我\Desktop\Projects\批量改名\plgm\plgm\obj\Release\plgm.csprojResolveAssemblyReference.cache
+C:\Users\我\Desktop\Projects\批量改名\plgm\plgm\obj\Release\plgm.批量重命名.resources
+C:\Users\我\Desktop\Projects\批量改名\plgm\plgm\obj\Release\plgm.Properties.Resources.resources
+C:\Users\我\Desktop\Projects\批量改名\plgm\plgm\obj\Release\plgm.csproj.GenerateResource.Cache
+C:\Users\我\Desktop\Projects\批量改名\plgm\plgm\obj\Release\plgm.exe
+C:\Users\我\Desktop\Projects\批量改名\plgm\plgm\obj\Release\plgm.pdb
