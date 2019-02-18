@@ -1,0 +1,10 @@
+void buildmap(int **map,int **showmap, int bombcount, int mapx, int mapy,int posx,int posy);
+int findbomb(int **map, int posx, int posy,int mapx,int mapy);
+void drawmap(int **showmap, int mapx, int mapy, int &posx, int &posy,int backup);
+void move(int **map, int**showmap, int posx, int posy, int &backup, int mapx, int mapy, int bombcount);
+void click(int**map,int **showmap, int posx, int posy, int &backup, int mapx, int mapy);
+void show(int mapx, int mapy);
+void MailUIshow();
+void mainUI(int &bombcount, int &mapx, int &mapy,int **map,int**showmap);
+void fakemap(int mapx, int mapy, int &posx, int &posy, int &backup);
+void basemap(int **map, int **showmap, int mapx, int mapy);
